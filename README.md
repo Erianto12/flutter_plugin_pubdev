@@ -12,7 +12,7 @@ Tujuan dari langkah ke dua itu harus memasukan code tersebut, Di dalam terminal 
 berfungsi untuk memasukan plugin ke project yang kita buat.
 
 # Error langkah 4
-Di langkah 4, error terjadi pada langkah tersebut karna kita baru menambahkan plugin melalui terminal namun peligin belum dipanggil kedalam file kode yang menginstance classnya.
+Di langkah 4, error terjadi pada langkah tersebut karna kita baru menambahkan plugin melalui terminal namun peligin belum dipanggil kedalam file kode yang menginstance classnya..
 
 ### Penjelasan Langkah 5
 
